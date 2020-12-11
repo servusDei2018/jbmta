@@ -6,6 +6,7 @@ A simple, command-line mail transfer tool.
  - Small (3.5Mb)
  - 100% configurable via command-line flags
  - TLS security support
+ - Cross-platform (Mac 10.10+, Windows 7+, all Linux)
  - No dependencies
  - No installation, works out-of-the-box
 
